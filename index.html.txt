@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Anandu Ashok | Data Science Portfolio</title>
+  <style>
+    body {
+      font-family: "Segoe UI", sans-serif;
+      max-width: 850px;
+      margin: auto;
+      padding: 2rem;
+      line-height: 1.6;
+    }
+    h1, h2, h3 {
+      color: #222;
+    }
+    a {
+      color: #0366d6;
+      text-decoration: none;
+    }
+    hr {
+      margin: 2rem 0;
+    }
+    code {
+      background: #f5f5f5;
+      padding: 0.2em 0.4em;
+      border-radius: 3px;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>👋 Hi, I'm Anandu Ashok (Nick)</h1>
+  <p>I'm an aspiring <strong>Data Scientist</strong> with over 6 years of experience in <strong>system engineering</strong>, currently transitioning into machine learning and analytics. I'm pursuing an <strong>M.Sc. in Data Science</strong>, and I've built several projects using Python, ML algorithms, and data visualization tools.</p>
+
+  <p>I’m passionate about turning messy data into meaningful insights and solving real-world problems with data.</p>
+
+  <p>
+    🔗 
+    <a href="https://www.linkedin.com/in/anandu-ashok/">LinkedIn</a> |
+    <a href="https://github.com/ananduashok">GitHub</a> |
+    <a href="https://www.kaggle.com/ananduashok">Kaggle</a> |
+    <a href="./Anandu_Ashok_resume_2025-07-22.pdf">Resume (PDF)</a>
+  </p>
+
+  <hr/>
+
+  <h2>🧠 Data Science Projects</h2>
+
+  <h3>🅰️ Letter Recognition</h3>
+  <p><a href="https://github.com/ananduashok/Letter-Recognition">🔗 View on GitHub</a></p>
+  <p>Classification model to recognize handwritten uppercase letters from pixel data using Random Forest, SVM, and Logistic Regression. Achieved high accuracy across all 26 classes.</p>
+  <p><strong>Tech:</strong> Python, pandas, scikit-learn, matplotlib</p>
+
+  <h3>🩺 Gallstone Prediction</h3>
+  <p><a href="https://github.com/ananduashok/Gallstone-prediction">🔗 View on GitHub</a></p>
+  <p>A binary classification model predicting gallbladder stone diagnosis using healthcare data. Evaluated using accuracy, ROC AUC, and confusion matrix.</p>
+  <p><strong>Tech:</strong> pandas, scikit-learn, matplotlib</p>
+
+  <h3>🏠 House Price Prediction</h3>
+  <p><a href="https://github.com/ananduashok/House-Price-Prediction">🔗 View on GitHub</a></p>
+  <p>Built multiple regression models to predict house prices and compared them using RMSE and R² scores.</p>
+  <p><strong>Tech:</strong> pandas, sklearn, XGBoost, matplotlib, seaborn</p>
+
+  <h3>🚭 Smoking Tracker App</h3>
+  <p><em>(WIP – Will be hosted soon)</em></p>
+  <p>A desktop Python app to help track smoke-free days and money saved since quitting. Useful for motivation and progress tracking.</p>
+  <p><strong>Tech:</strong> Python, Tkinter, datetime</p>
+
+  <hr/>
+
+  <h2>🛠️ Skills & Tools</h2>
+  <p>
+    <strong>Languages:</strong> Python, SQL, Shell Script, R (basic) <br>
+    <strong>ML Techniques:</strong> Regression, Classification, Clustering, PCA, Hyperparameter Tuning <br>
+    <strong>Libraries:</strong> pandas, NumPy, scikit-learn, matplotlib, seaborn, Plotly <br>
+    <strong>Tools:</strong> Jupyter, VS Code, Git, MySQL, Google Colab <br>
+    <strong>Soft Skills:</strong> Problem-solving, teamwork, communication, business acumen
+  </p>
+
+  <hr/>
+
+  <h2>🏅 Certifications</h2>
+  <ul>
+    <li>IBM Data Science Professional Certificate – Coursera</li>
+    <li>ML & Data Science – Illinois Institute of Tech via Entri Elevate</li>
+    <li><a href="https://www.credly.com/users/anandu-ashok/badges#credly">View Credly Badges</a></li>
+  </ul>
+
+  <hr/>
+
+  <h2>📄 Resume</h2>
+  <p><a href="./Anandu_Ashok_resume_2025-07-22.pdf">📄 Download Resume (PDF)</a></p>
+
+  <hr/>
+
+  <h2>📬 Contact</h2>
+  <ul>
+    <li>Email: anandhuasok@gmail.com</li>
+    <li>Phone: +91-8281365067</li>
+    <li><a href="https://www.linkedin.com/in/anandu-ashok/">LinkedIn</a></li>
+    <li><a href="https://github.com/ananduashok">GitHub</a></li>
+    <li><a href="https://www.kaggle.com/ananduashok">Kaggle</a></li>
+  </ul>
+
+  <hr/>
+
+  <blockquote>
+    <em>“The goal is to turn data into information, and information into insight.” – Carly Fiorina</em>
+  </blockquote>
+
+</body>
+</html>
